@@ -41,7 +41,7 @@ item.celestial_notes.moon_8.text=月相-盈凸月
 #
 item.amber.name=琥珀
 item.quicksilver.name=水銀
-item.crystal_essence.name=%s 魔素結晶
+item.crystal_essence.name=%s魔素結晶
 item.ingot.thaumium.name=靛鐵錠
 item.ingot.void.name=虛鋼錠
 item.ingot.brass.name=煉成黃銅錠
@@ -94,7 +94,7 @@ item.chunk.mutton.name=羊肉塊
 item.brain.name=殭屍腦袋
 item.triple_meat_treat.name=三層肉饌
 item.phial.empty.name=玻璃管型瓶
-item.phial.filled.name=%s 源質管型瓶
+item.phial.filled.name=%s源質管型瓶
 item.label.blank.name=空白標籤
 item.label.filled.name=標記標籤
 item.jar_brace.name=黃銅蓋箍
@@ -1791,20 +1791,20 @@ research.BASEELDRITCH.stage.1=我發現的這些虛無之種有深入研究的�
 research.BASEELDRITCH.stage.2=我的雙手在顫抖。經過我仔細檢查，這種詭異的物質開啟了我心中詭異的全新視野。 <BR>在此之前，我曾寫下一種神祕的全新金屬合成公式，但我不記得寫過這種東西，甚至連字跡也不像是我寫的。 <BR>敘述中的金屬充滿各種矛盾。它堅固不屈，同時又柔軟易於加工。它溫暖的觸感彷彿擁有生命，而且如同生物般會在受損時緩緩復原。 <BR>用它來製作物理上的工具似乎... 不正確。
 #
 research.VOIDSIPHON.title=虛無虹吸管
-research.VOIDSIPHON.stage.1=Destroying a rift to get Void Seeds is highly impractical. I must find a better way.<BR>While most Crimson Cultist rantings are nonsense, they do make reference to drawing power from rifts. I believe it should be possible to siphon off some of the eldritch energy in rifts to form Void Seeds without destroying the rift outright.
-research.VOIDSIPHON.stage.2=I hate to admit it, but the Crimson Cultists might be on to something. I have managed to design a Void Siphon that slowly leeches energy from nearby rifts. This leeched energy will slowly form Void Seeds. The larger the rift is, the quicker this process occurs.<BR>Unfortunately this is not without consequence for the rift itself. The rift will become increasingly unstable and will slowly shrink as it's energy is leeched away. I must take care to not overuse them.<BR>A redstone signal will disable the Void Siphon.
+research.VOIDSIPHON.stage.1=摧毀裂痕來取得虛無之種相當不切實。我必須找個更好的方法。 <BR>緋色教徒們的鬼吼鬼叫通常沒什麼意義，但依然能作為汲取裂痕能量的參考。我相信在不直接摧毀裂痕的前提下將其中的異象能量以虛無之種的形式吸出應該是可行的。
+research.VOIDSIPHON.stage.2=雖然我很不願意承認，但緋色教徒似乎也獲得了某些成果。我試著設計出了虛無虹吸管來緩緩吸取附近裂痕的能量。吸取出的能量會逐漸轉化為虛無之種。裂痕規模愈大，生成速度愈快。 <BR>可惜這對裂痕本身也會產生影響。隨著能量被吸出，裂痕將逐漸失衡萎縮。我必須小心避免過度抽取。 <BR>紅石訊號可以暫時停止虛無虹吸管的運作。
 #
 research.VOIDSEERPEARL.title=虛空先知寶珠
-research.VOIDSEERPEARL.stage.1=In madness there is insight. Or so I have been told... I'm not sure by who, but it has the ring of truth about it.<BR>I have been having strange thoughts and ideas of late, but their significance and meaning is just outside my grasp. If I can focus my mind somehow I might be able to see... more.
-research.VOIDSEERPEARL.stage.2=When I hold this charm I get glimpses of what lies beyond. The meaning still eludes me, but I feel more connected to the aura and magic than I have ever felt before.<BR>While I have this charm equipped I will find vis much easier to manipulate.<BR>Oddly enough, the size of the bonus seems to be proportional to the amount of permanent warp I have suffered. What a strange coincidence.
+research.VOIDSEERPEARL.stage.1=瘋狂中往往隱藏著睿智。 ...雖然我不確定是從哪聽來的，但這往往能引導我接近真相。 <BR>我最近一直出現奇怪的思緒與想法，但始終無法掌我其象徵或意義。集中精神或許可以進一步看得更...更多。
+research.VOIDSEERPEARL.stage.2=手持這顆墜飾可以讓我瞥見藏在表面下的事物。雖然未能揭開其中的意義，但我感覺自己與靈氣和魔法的聯繫比以往所感受到的更深。 <BR>我發現配戴這顆墜飾可以讓魔素變得更容易操作。 <BR>詭異的是它所賦予的加成似乎與我所承受的扭曲成正比。真是奇怪的巧合。
 #
-research.VOIDROBEARMOR.title=Void Thaumaturge Armor
-research.VOIDROBEARMOR.stage.1=The simple void metal armor I can now craft is practical, but not particularly useful to full blooded thaumaturge like myself. I should craft something better. Much better.
-research.VOIDROBEARMOR.stage.2=Using the knowledge I have gained thus far, I have designed a set of armored robes that combines the utility of Thaumaturge's Robes with the practacality of Thaumium Fortress Armor.<BR>Primarily made from void metal this armor has all the benefits (and side-effects) that metal offers.<BR>Lastly, the hood of the robes contain integrated Goggles of Revealing.<BR>This armor can be dyed.
+research.VOIDROBEARMOR.title=虛無秘術師裝甲
+research.VOIDROBEARMOR.stage.1=我目前所能製作的簡單虛無鋼盔甲是有用的，但對於我這種渾身血腥的秘術師而言不算特別實用。我應該製作更好，更傑出的成品。
+research.VOIDROBEARMOR.stage.2=我利用迄今所學的知識設計了一套裝甲法袍，融合了秘術師法袍的效果與靛鐵城齋甲冑的實用性。 <BR>由於主要材質是虛無鋼，故這套裝甲具備虛無鋼的所有優勢（與副作用）。 <BR>最後，這套法袍的兜帽包含內建的揭示護目鏡。 <BR>這套裝甲可染色。
 #
-research.PRIMALCRUSHER.title=Primal Crusher
-research.PRIMALCRUSHER.stage.1=The variable and malleable nature of Void Metal has openend up some interesting possibilities.<BR>I believe it should be possible to create a tool with inherent morphic instability. In other words it will constantly fluctuate between various states so rapdily that it might not be visible to the naked eye.
-research.PRIMALCRUSHER.stage.2=Success! I have created a tool I am calling the Primal Crusher. It has the essential nature of both a pickaxe and a shovel. It does not look like either of those tools, but it defintely functions like them. Better in fact. It is also surprisingly effective against Taint.<BR>It is slightly unpleasant to hold however - it seems to vibrate in one's hand and the feeling becomes quite uncomfortable after a while. A little discomfort will not stop me from using it however.
+research.PRIMALCRUSHER.title=原初粉碎杵
+research.PRIMALCRUSHER.stage.1=虛無鋼的可變與可塑性開啟了一些有趣的可能性。 <BR>我相信它可以用來製作出具備型態變化性質的工具。換句話說，它會不斷在各種形態間快速轉換，甚至可能無法以肉眼辨識。
+research.PRIMALCRUSHER.stage.2=成功了！我將製作出的工具稱為原初粉碎杵。它同時具備鎬和鏟子的基本性質。它看起來不像這些工具，但確實擁有相同的功能，甚至效果更好。對抗腐蝕也有著驚人的效果。 <BR>這東西握在手上令人感到有些不快——它似乎會在手中震動，一段時間後會覺得相當不適。然而這點不舒服當然阻止不了我。
 #
 ##########################################
 # MISC
